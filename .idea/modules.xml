@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GreedySnakeJava/GreedySnakeJava.iml" filepath="$PROJECT_DIR$/GreedySnakeJava/GreedySnakeJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/little_games.iml" filepath="$PROJECT_DIR$/little_games.iml" />
+    </modules>
+  </component>
+</project>
